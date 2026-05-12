@@ -33,9 +33,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-
-      <img src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/main/assets/mygif.gif" width="100%" alt="3D Developer Animation" />
-
+<img src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/main/assets/mygif.gif" width="100%" alt="3D Developer Animation" />
     </td>
   </tr>
 </table>
