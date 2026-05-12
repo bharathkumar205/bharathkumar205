@@ -304,5 +304,5 @@ const bharath = {
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+visiting!+⭐;Let's+build+something+amazing+together!;The+code+never+sleeps...&font=Orbitron&center=true&width=500&height=45&color=FF00FF&vCenter=true&pause=1500&size=18" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;The+code+never+sleeps...&font=Orbitron&center=true&width=500&height=45&color=FF00FF&vCenter=true&pause=1500&size=18" alt="Footer Typing" />
 </div>
