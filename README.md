@@ -147,7 +147,7 @@
 
 <div align="center">
   <a href="https://github.com/bharathkumar205">
-    <img src="https://raw.githubusercontent.com/bharathkumar205/bharathkumar205/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Graph" />
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
   </a>
 </div>
 
