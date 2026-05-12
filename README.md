@@ -75,7 +75,7 @@
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/bharathkumar205/ChatApp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bharathkumar205&repo=ChatApp&theme=tokyonight&border_color=FF00FF&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&icon_color=FF00FF" alt="ChatApp" width="100%" />
+        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Chat App Demo" width="100%" />
       </a>
       <br/><br/>
       <p>A full-stack bidirectional chat system supporting 100+ concurrent users. Built with <b>MERN Stack</b>, <b>Socket.io</b>, and <b>JWT</b>.</p>
