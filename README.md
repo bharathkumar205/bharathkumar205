@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9d0208,100:ffba08&height=300&section=header&text=BHARATH%20KUMAR&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=00F0FF&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Flutter%20%7C%20Game%20Dev&descAlignY=55&descSize=18&stroke=FF00FF&strokeWidth=1" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9d0208,100:ffba08&height=300&section=header&text=BHARATH%20KUMAR&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=335c67&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Flutter%20%7C%20Game%20Dev&descAlignY=55&descSize=18&stroke=FF00FF&strokeWidth=1" alt="Header" />
 </div>
 
 <div align="center">
