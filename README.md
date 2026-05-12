@@ -105,23 +105,6 @@
 </div>
 <br/>
 
-<!-- GITHUB ANALYTICS & CONTRIBUTION ACTIVITY -->
-<table width="100%" border="0">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h2 align="center">📈 GitHub Analytics</h2>
-      <a href="https://github.com/bharathkumar205">
-        <img src="https://github-readme-stats.vercel.app/api?username=bharathkumar205&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&icon_color=FF00FF&ring_color=00F0FF" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h2 align="center">🔥 Top Languages</h2>
-      <a href="https://github.com/bharathkumar205">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathkumar205&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF" alt="Top Langs" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 <br/>
 
