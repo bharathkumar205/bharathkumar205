@@ -143,11 +143,11 @@
 
 <br/>
 
-<h2 align="center">⚡ Contribution Activity</h2>
+<h2 align="center">⚡ Contribution Activity (3D)</h2>
 
 <div align="center">
   <a href="https://github.com/bharathkumar205">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bharathkumar205&theme=tokyonight&hide_border=true&area_color=1f053b&area=true&color=00F0FF&line=FF00FF&point=FFFFFF&bg_color=0D1117" width="100%" alt="Activity Graph" />
+    <img src="https://raw.githubusercontent.com/bharathkumar205/bharathkumar205/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Graph" />
   </a>
 </div>
 
