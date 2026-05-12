@@ -316,9 +316,9 @@ const bharath = {
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0940,50:1a0533,100:0D1117&height=120&section=footer&animation=twinkling" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9d0208,100:faa307&height=120&section=footer&animation=twinkling" alt="Footer" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;The+code+never+sleeps...&font=Orbitron&center=true&width=500&height=45&color=FF00FF&vCenter=true&pause=1500&size=18" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;The+code+never+sleeps...&font=Orbitron&center=true&width=500&height=45&color=faa307&vCenter=true&pause=1500&size=18" alt="Footer Typing" />
 </div>
