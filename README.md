@@ -24,13 +24,9 @@
   <tr>
     <td width="60%" valign="top">
       <h2>🌌 About My Universe</h2>
-      <p>I am a goal-oriented <b>Full-Stack Developer</b> specializing in the MERN stack and Flutter development. My code is fueled by clean architecture, real-time connectivity, and a passion for creating scalable, responsive digital experiences.</p>
-      <ul>
-        <li>🧊 <b>Currently Building:</b> Real-time chat systems, music streaming platforms, and smart campus solutions.</li>
-        <li>💼 <b>Experience:</b> Web Developer Intern @ <i>Tamizhi AI</i> | Jr SEO Analyst @ <i>QuantumQLabs</i></li>
-        <li>🎓 <b>Education:</b> CS Undergrad @ Angel College of Engineering and Technology (Class of 2026).</li>
-        <li>⚡ <b>Tech Arsenal:</b> React.js, Node.js, Flutter, MongoDB, Socket.io, Firebase.</li>
-      </ul>
+      <p>My journey into software engineering began with a fascination for how digital systems connect people. Today, as a CS undergraduate at Angel College of Engineering and Technology, I've transformed that curiosity into building robust, real-time applications.</p>
+      <p>Whether I'm engineering a bidirectional chat system using the <b>MERN stack</b> or crafting a cross-platform smart campus solution in <b>Flutter</b>, my mission remains the same: writing clean, scalable code that delivers flawless user experiences.</p>
+      <p>I cut my teeth in the professional world as a <i>Web Developer Intern at Tamizhi AI</i>, squashing UI bugs and optimizing APIs. Before that, my time as an <i>SEO Analyst at QuantumQLabs</i> taught me the critical importance of web performance and visibility. Now, my tech arsenal is forged in JavaScript, Dart, and real-time sockets. Welcome to my digital universe!</p>
     </td>
     <td width="40%" align="center" valign="middle">
 <img src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/main/assets/mygif.gif" width="100%" alt="3D Developer Animation" />
