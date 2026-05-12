@@ -11,9 +11,7 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/main/assets/mygif.gif" alt="3D Developer Animation" />
-</div>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider" />
@@ -36,21 +34,7 @@
     </td>
     <td width="40%" align="center" valign="middle">
 
-```css
-/* Core Developer Entity */
-.developer {
-  identity: "MERN & Flutter Builder";
-  skills: [FullStack, RealTime, SEO];
-  passion: "Responsive Experiences";
-  animation: pulse-glow 2s infinite;
-}
-
-@keyframes pulse-glow {
-  0% { text-shadow: 0 0 5px #00F0FF; }
-  50% { text-shadow: 0 0 20px #FF00FF; }
-  100% { text-shadow: 0 0 5px #00F0FF; }
-}
-```
+      <img src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/main/assets/mygif.gif" width="100%" alt="3D Developer Animation" />
 
     </td>
   </tr>
