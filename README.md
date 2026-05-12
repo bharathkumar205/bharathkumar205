@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/bharathkumar205">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+MERN+Developer;Flutter+Mobile+App+Builder;Real-time+Systems+Engineer;Web+Performance+%26+SEO+Optimizer&font=Fira+Code&center=true&width=600&height=50&color=00F0FF&vCenter=true&pause=1000&size=22" alt="Typing effect" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+MERN+Developer;Flutter+Mobile+App+Builder;Real-time+Systems+Engineer;Web+Performance+%26+SEO+Optimizer&font=Orbitron&center=true&width=600&height=50&color=00F0FF&vCenter=true&pause=1000&size=22" alt="Typing effect" />
   </a>
 </div>
 
