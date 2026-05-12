@@ -78,16 +78,25 @@
 <table width="100%" border="0">
   <tr>
     <td width="33%" valign="top">
-      <h3>💬 Real-Time Chat App</h3>
-      <p>A full-stack bidirectional chat system supporting 100+ concurrent users. Built with <b>MERN Stack</b>, <b>Socket.io</b>, and <b>JWT</b>. Features online/offline indicators and read receipts.</p>
+      <a href="https://github.com/bharathkumar205/ChatApp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bharathkumar205&repo=ChatApp&theme=tokyonight&border_color=FF00FF&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&icon_color=FF00FF" alt="ChatApp" width="100%" />
+      </a>
+      <br/><br/>
+      <p>A full-stack bidirectional chat system supporting 100+ concurrent users. Built with <b>MERN Stack</b>, <b>Socket.io</b>, and <b>JWT</b>.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>🎵 Spotify Clone</h3>
-      <p>A comprehensive music streaming platform replicating Spotify's core features. Built with <b>React</b>, <b>TypeScript</b>, <b>Node.js</b>, and <b>Cloudinary</b>. Features a reusable component library cutting duplication by 40%.</p>
+      <a href="https://github.com/bharathkumar205/spotify-clone">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bharathkumar205&repo=spotify-clone&theme=tokyonight&border_color=00F0FF&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF&icon_color=00F0FF" alt="Spotify Clone" width="100%" />
+      </a>
+      <br/><br/>
+      <p>A comprehensive music streaming platform replicating Spotify's core features. Built with <b>React</b>, <b>TypeScript</b>, <b>Node.js</b>, and <b>Cloudinary</b>.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>🏫 Smart Campus</h3>
-      <p>A cross-platform <b>Flutter</b> app linked with a Node.js + MongoDB backend. Implements RBAC for students/faculty/admin, QR-code attendance with GPS, and real-time FCM notifications.</p>
+      <a href="https://github.com/bharathkumar205/smart-campus-managemnt-system">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bharathkumar205&repo=smart-campus-managemnt-system&theme=tokyonight&border_color=FF00FF&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&icon_color=FF00FF" alt="Smart Campus" width="100%" />
+      </a>
+      <br/><br/>
+      <p>A cross-platform <b>Flutter</b> app linked with a Node.js + MongoDB backend. Implements RBAC for students/faculty/admin and QR-code attendance.</p>
     </td>
   </tr>
 </table>
