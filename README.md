@@ -28,37 +28,53 @@
 <br/>
 
 <!-- ABOUT ME -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;About My Universe
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" /> &nbsp;About My Universe</h2>
 
-<table width="100%" border="0">
-  <tr>
-    <td width="60%" valign="top">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/main/assets/mygif.gif" width="300" alt="3D Developer Animation" />
+</div>
 
-**`> whoami`**
+<br/>
 
-I'm a **CS undergraduate** at Angel College of Engineering and Technology with an obsession for building systems that people *actually* want to use.
+```js
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//  $ bharath --info
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-My journey started with curiosity about how digital systems connect people — today I architect **real-time, scalable applications** across the full stack.
+const bharath = {
+    role:        "Full-Stack Developer & Indie Game Dev",
+    education:   "CS Undergrad @ Angel College of Engineering & Technology",
+    mission:     "Building real-time, scalable apps that people actually want to use",
+    origin:      "Fascinated by how digital systems connect people"
+};
+```
 
-**`> experience --list`**
+<br/>
 
-🔹 **Web Developer Intern** @ *Tamizhi AI* — Squashed UI bugs, optimized APIs  
-🔹 **SEO Analyst** @ *QuantumQLabs* — Web performance & visibility mastery  
-🔹 **Indie Game Developer** — Building *Geometry Outbreak* in Unity/C#
+<div align="center">
+  <table>
+    <tr>
+      <td>
 
-**`> interests`**
+#### 💼 &nbsp;Experience
 
-🌐 Real-time systems & WebSocket architecture  
-📱 Cross-platform mobile development  
-🎮 Game development & procedural systems  
-⚡ Performance optimization & clean code
+| Role | Company | Focus |
+|:-----|:--------|:------|
+| 🔧 Web Developer Intern | **Tamizhi AI** | Squashed UI bugs, optimized APIs |
+| 📈 SEO Analyst | **QuantumQLabs** | Web performance & visibility |
+| 🎮 Indie Game Developer | **Self** | Building *Geometry Outbreak* in Unity/C# |
 
 </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/main/assets/mygif.gif" width="100%" alt="3D Developer Animation" />
-    </td>
-  </tr>
-</table>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🌐_Real--time_Systems-00F0FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/📱_Cross--Platform_Mobile-FF00FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🎮_Game_Development-FFD700?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/⚡_Clean_Code-00FF88?style=for-the-badge&labelColor=0D1117" />
+</div>
 
 <br/>
 
