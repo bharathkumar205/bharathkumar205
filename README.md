@@ -74,24 +74,27 @@
 <table width="100%" border="0">
   <tr>
     <td width="33%" valign="top">
-      <a href="https://github.com/bharathkumar205/ChatApp">
+      <a href="https://chatapp-uumm.onrender.com">
         <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Chat App Demo" width="100%" />
       </a>
-      <br/><br/>
+      <br/>
+      <h3 align="center">💬 Real-Time Chat App</h3>
       <p>A full-stack bidirectional chat system supporting 100+ concurrent users. Built with <b>MERN Stack</b>, <b>Socket.io</b>, and <b>JWT</b>.</p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/bharathkumar205/spotify-clone">
+      <a href="https://spotify-clone-5wfg.onrender.com">
         <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="Spotify Clone Demo" width="100%" />
       </a>
-      <br/><br/>
+      <br/>
+      <h3 align="center">🎵 Spotify Clone</h3>
       <p>A comprehensive music streaming platform replicating Spotify's core features. Built with <b>React</b>, <b>TypeScript</b>, <b>Node.js</b>, and <b>Cloudinary</b>.</p>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/bharathkumar205/smart-campus-managemnt-system">
         <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Smart Campus Demo" width="100%" />
       </a>
-      <br/><br/>
+      <br/>
+      <h3 align="center">🏫 Smart Campus</h3>
       <p>A cross-platform <b>Flutter</b> app linked with a Node.js + MongoDB backend. Implements RBAC for students/faculty/admin and QR-code attendance.</p>
     </td>
   </tr>
