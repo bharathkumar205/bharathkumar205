@@ -197,7 +197,7 @@ const bharath = {
       <h3 align="center">🎮 Geometry Outbreak</h3>
       <div align="center">
         <a href="https://github.com/bharathkumar205" target="_blank">
-          <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-002f4f076766.gif" alt="Game Dev" height="180" />
+          <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Game Dev" height="180" />
         </a>
         <br/><br/>
         <p>
