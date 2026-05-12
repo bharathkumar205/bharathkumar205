@@ -70,10 +70,10 @@ const bharath = {
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🌐_Real--time_Systems-00F0FF?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/📱_Cross--Platform_Mobile-FF00FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🌐_Real--time_Systems-FFD700?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/📱_Cross--Platform_Mobile-FFD700?style=for-the-badge&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/🎮_Game_Development-FFD700?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/⚡_Clean_Code-00FF88?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/⚡_Clean_Code-FFD700?style=for-the-badge&labelColor=0D1117" />
 </div>
 
 <br/>
