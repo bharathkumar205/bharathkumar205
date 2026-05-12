@@ -82,14 +82,14 @@
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/bharathkumar205/spotify-clone">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bharathkumar205&repo=spotify-clone&theme=tokyonight&border_color=00F0FF&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF&icon_color=00F0FF" alt="Spotify Clone" width="100%" />
+        <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="Spotify Clone Demo" width="100%" />
       </a>
       <br/><br/>
       <p>A comprehensive music streaming platform replicating Spotify's core features. Built with <b>React</b>, <b>TypeScript</b>, <b>Node.js</b>, and <b>Cloudinary</b>.</p>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/bharathkumar205/smart-campus-managemnt-system">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bharathkumar205&repo=smart-campus-managemnt-system&theme=tokyonight&border_color=FF00FF&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&icon_color=FF00FF" alt="Smart Campus" width="100%" />
+        <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Smart Campus Demo" width="100%" />
       </a>
       <br/><br/>
       <p>A cross-platform <b>Flutter</b> app linked with a Node.js + MongoDB backend. Implements RBAC for students/faculty/admin and QR-code attendance.</p>
