@@ -145,7 +145,7 @@ const bharath = {
         <a href="https://chatapp-uumm.onrender.com">
           <img src="https://img.shields.io/badge/🔗_LIVE_DEMO-00F0FF?style=for-the-badge&logoColor=white" alt="Live Demo" />
         </a>
-        <a href="https://github.com/bharathkumar205/chat-app">
+        <a href="https://github.com/bharathkumar205/ChatApp">
           <img src="https://img.shields.io/badge/📂_SOURCE-FF00FF?style=for-the-badge&logoColor=white" alt="Source Code" />
         </a>
       </div>
