@@ -45,6 +45,7 @@ const bharath = {
     role:        "Full-Stack Developer & Indie Game Dev",
     education:   "CS Undergrad @ Angel College of Engineering & Technology",
     mission:     "Building real-time, scalable apps that people actually want to use",
+    portfolio:   "https://bharath-portfolio-83ud.onrender.com/",
     origin:      "Fascinated by how digital systems connect people"
 };
 ```
@@ -298,6 +299,10 @@ const bharath = {
   &nbsp;
   <a href="https://github.com/bharathkumar205">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://bharath-portfolio-83ud.onrender.com/">
+    <img src="https://img.shields.io/badge/Portfolio-FF00FF?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
