@@ -229,7 +229,7 @@ const bharath = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bharathkumar205&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00FF&text_color=FFFFFF&ring_color=FF00FF" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=bharathkumar205&theme=radical&hide_border=true&background=0D1117&ring=FF00FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=00F0FF&dates=FFFFFF" alt="GitHub Streak" />
+  <img width="49%" src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bharathkumar205&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
